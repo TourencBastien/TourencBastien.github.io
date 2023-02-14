@@ -16,9 +16,9 @@ Under the supervision of professor [Monica Martinat](http://larhra.ish-lyon.cnrs
 
 ## Publications
 
-* [Poster](https://github.com/TourencBastien/Poster_WEHC22/blob/main/Poster%20file/POSTER_2_V3-6.pdf), The auction of the Kingdom of God : modelling the 1766 Ecclesiastical Property Reform in the Republic of Venice, *WEHC 2022*, 202 
+* [Poster](https://github.com/TourencBastien/Poster_WEHC22/blob/main/Poster%20file/POSTER_2_V3-6.pdf), The auction of the Kingdom of God : modelling the 1766 Ecclesiastical Property Reform in the Republic of Venice, *WEHC 2022*, 2022.
 
 * [Report](https://sfhu.hypotheses.org/6599) for the Société Française d’Histoire Urbaine.
-  Julie Claustre, Faire ses comptes au Moyen Âge. Les mémoires de besogne de Colin de Lormoye, Les Belles Lettres, Paris, 2021
+  Julie Claustre, Faire ses comptes au Moyen Âge. Les mémoires de besogne de Colin de Lormoye, Les Belles Lettres, Paris, 2021.
   
-* Ares Oliveira S., di Lenardo I., Tourenc B., and Kaplan F., [A deep learning approach to Cadastral Computing](https://infoscience.epfl.ch/record/268282?ln=fr), *Digital Humanities Conference*, Utrecht, Netherlands, July 8-12, 2019
+* Ares Oliveira S., di Lenardo I., Tourenc B., and Kaplan F., [A deep learning approach to Cadastral Computing](https://infoscience.epfl.ch/record/268282?ln=fr), *Digital Humanities Conference*, 2019.
