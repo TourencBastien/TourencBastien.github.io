@@ -10,7 +10,7 @@ redirect_from:
 
 ## Ongoing PhD 
 
-"Ecclesiastical suppressions and land transfers in the Republic of Venice in the second half of the 18th century"
+"Ecclesiastical suppressions and land transfers in the Republic of Venice in the second half of the 18th century" (written in french)
 
 
 Under the supervision of professor [Monica Martinat](http://larhra.ish-lyon.cnrs.fr/membre/251?lang=en) (LARHRA, Lyon 2) and professor [Jean-François Chauvard](https://www.pantheonsorbonne.fr/page-perso/jfchauvard) (IHMC, Paris 1)
