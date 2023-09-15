@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Economic History at the University of Lyon 2 and at the [LARHRA](https://larhra.fr/member/btourenc/).
+
+
+I am a PhD student in History at the University of Lyon 2 and at the [LARHRA](https://larhra.fr/member/btourenc/).
+
+My research interests are Economic History, between Modern and Medieval periods, and data mining used on historical documents.
 
 
 
