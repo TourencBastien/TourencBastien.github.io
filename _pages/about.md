@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Economic History at the University of Lyon 2 and at the [LARHRA](http://larhra.ish-lyon.cnrs.fr/membre/855).
-
-My [CV](https://bastientourenc.github.io/files/CV_Bastien_Tourenc_feb23.pdf) is available here.
+I am a PhD student in Economic History at the University of Lyon 2 and at the [LARHRA](https://larhra.fr/member/btourenc/).
 
 
 
