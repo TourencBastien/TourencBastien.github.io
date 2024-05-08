@@ -11,9 +11,9 @@ title                    : "Bastien Tourenc"
 title_separator          : "-"
 name                     : &name "Bastien Tourenc"
 description              : &description "PhD student in History"
-url                      : https://bastientourenc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tourencbastien.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "TourencBastien/bastientourenc.github.io"
+repository               : "TourencBastien/TourencBastien.github.io"
 teaser                   : avatar.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Bastien Tourenc"
-  avatar           : "IMG_5006_DxO_copie1Mo.png"
+  avatar           : "avatar.jpg"
   bio              : "PhD student in History"
   location         : "Lyon"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    :  "https://scholar.google.com/citations?hl=fr&user=43cXN5UAAAAJ#d=gs_hdr_drw&t=1694792817898"
   email            :  "bastien.tourenc@univ-lyon2.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
