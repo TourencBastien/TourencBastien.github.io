@@ -5,8 +5,20 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Workshop in Computational Cartography for Historians
+Graduate, University of Lyon 2 - spring 2024
+
+* Lecturer to second year graduate students.
+
+
+## Workshop in Computer Science for Historians
+Graduate, University of Lyon 2 - spring 2024
+
+* Lecturer to first year graduate students.
+
+
 ## Statistics for Social Science
-Graduate, University of Lyon 2 - spring 2023
+Graduate, University of Lyon 2 - springs 2023 & 2024
 
 * Lecturer to first year graduate students. 
 
