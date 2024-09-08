@@ -19,6 +19,10 @@ Under the supervision of professor [Monica Martinat](http://larhra.ish-lyon.cnrs
 
 ## Publications
 
+
+* With Filippo Sorame, [conference paper](https://github.com/TourencBastien/Poster_WEHC22/blob/main/Poster%20file/POSTER_2_V3-6.pdf), Mapping the networks of the Accademia dei Nobili della Giudecca: a sous-champ of the 18th-Century Venetian Reforming Era, *HNR 2024*, 2024.
+
+
 * [Poster](https://github.com/TourencBastien/Poster_WEHC22/blob/main/Poster%20file/POSTER_2_V3-6.pdf), The auction of the Kingdom of God : modelling the 1766 Ecclesiastical Property Reform in the Republic of Venice, *WEHC 2022*, 2022.
 
 * [Report](https://sfhu.hypotheses.org/6599) for the Société Française d’Histoire Urbaine.
