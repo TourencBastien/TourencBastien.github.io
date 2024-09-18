@@ -6,13 +6,13 @@ author_profile: true
 ---
 
 ### Workshop in Computational Cartography for Historians
-Graduate, University of Lyon 2 - spring 2024 & 2025
+Graduate, University of Lyon 2 - springs 2024 & 2025
 
 * Lecturer to second year graduate students.
 
 
 ### Workshop in Computer Science for Historians
-Graduate, University of Lyon 2 - spring 2024 & 2025
+Graduate, University of Lyon 2 - springs 2024 & 2025
 
 * Lecturer to first year graduate students.
 
