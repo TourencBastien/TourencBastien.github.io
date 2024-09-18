@@ -84,11 +84,11 @@ author:
   avatar           : "avatar.jpg"
   bio              : "PhD student in History"
   location         : "Lyon 2"
-  employer         :
+  employer         : "LARHRA (UMR 5190)"
   pubmed           : 
   googlescholar    :  "https://scholar.google.com/citations?hl=fr&user=43cXN5UAAAAJ#d=gs_hdr_drw&t=1694792817898"
   email            :  "bastien.tourenc@univ-lyon2.fr"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://cv.hal.science/bastien-tourenc"
   uri              :
   bitbucket        :
   codepen          :
