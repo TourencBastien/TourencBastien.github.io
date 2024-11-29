@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <br>
-[Download my full CV](https://bastientourenc.github.io/files/CV_Bastien_Tourenc_23-09.pdf)
+[Download my full CV](https://bastientourenc.github.io/files/CV_Bastien_Tourenc_24-12.pdf)
 
 ## Education
 
