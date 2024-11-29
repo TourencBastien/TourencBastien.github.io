@@ -11,6 +11,7 @@ redirect_from:
 
 Download my full CV in [English](https://tourencbastien.github.io/files/CV_Bastien_Tourenc_24-11_eng.pdf) or in [French](https://tourencbastien.github.io/files/CV_Bastien_Tourenc_24-05_fr.pdf).
 
+
 ## Education
 
 * Master in History, Université Paris 1 Panthéon Sorbonne, 2017

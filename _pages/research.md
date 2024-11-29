@@ -20,15 +20,14 @@ Under the supervision of professor [Monica Martinat](http://larhra.ish-lyon.cnrs
 ## Publications
 
 
-* With Filippo Soramel, [conference paper](https://zenodo.org/records/12686486), Mapping the networks of the Accademia dei Nobili della Giudecca: a sous-champ of the 18th-Century Venetian Reforming Era, *HNR 2024*, 2024.
+* With Filippo Soramel, [conference paper](https://hal.science/hal-04701243), Mapping the networks of the Accademia dei Nobili della Giudecca: a sous-champ of the 18th-Century Venetian Reforming Era, *HNR 2024*, 2024.
 
 
-* With Marie-Laure Archambault-Küch, Maxence Demeule et Antoine Ropion, [article](https://publications-prairial.fr/larhra/index.php?id=897), Régulation, *Les Carnets du LARHRA*, 2023/1.
+* With Marie-Laure Archambault-Küch, Maxence Demeule et Antoine Ropion, [article](https://hal.science/hal-04701233), Régulation, *Les Carnets du LARHRA*, 2023/1.
 
 
 * [Poster](https://github.com/TourencBastien/Poster_WEHC22/blob/main/Poster%20file/POSTER_2_V3-6.pdf), The auction of the Kingdom of God : modelling the 1766 Ecclesiastical Property Reform in the Republic of Venice, *WEHC 2022*, 2022.
 
-* [Report](https://sfhu.hypotheses.org/6599) for the Société Française d’Histoire Urbaine.
-  Julie Claustre, Faire ses comptes au Moyen Âge. Les mémoires de besogne de Colin de Lormoye, Les Belles Lettres, Paris, 2021.
+* [Report](https://sfhu.hypotheses.org/6599) for the Société Française d’Histoire Urbaine. Julie Claustre, Faire ses comptes au Moyen Âge. Les mémoires de besogne de Colin de Lormoye, Les Belles Lettres, Paris, 2021.
   
-* Ares Oliveira S., di Lenardo I., Tourenc B., and Kaplan F., [A deep learning approach to Cadastral Computing](https://infoscience.epfl.ch/record/268282?ln=fr), *Digital Humanities Conference*, 2019.
+* Ares Oliveira S., di Lenardo I., Tourenc B., and Kaplan F., [A deep learning approach to Cadastral Computing](https://hal.science/hal-03988983), *Digital Humanities Conference*, 2019.
